@@ -1,0 +1,26 @@
+body {
+	background-image: url("ss.jpg");
+	background-size: cover;
+}
+h1 {
+	color: #FF4500;
+	text-align: center;
+}
+ul li {
+	display: inline-block;
+	cursor: pointer;
+	text-align: center;
+	margin: 20px;
+	border: 5px solid rgba(255, 92, 0, 0.2)
+
+}
+img {
+	float: right;
+}
+p {
+	
+	justify-content: flex-end;
+	border: 5px solid rgba(244, 0, 138, 0.2)
+	text-indent: 20px;
+	line-height: 50px;
+}
